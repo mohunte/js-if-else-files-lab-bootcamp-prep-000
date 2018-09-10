@@ -1,6 +1,5 @@
-var name = "Joe";
 var name = "Susan";
-var height = "70";
+var height = "74";
 
 if(name === "Susan"){
   conosole.log("The name is correct");
